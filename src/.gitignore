@@ -1,0 +1,26 @@
+# Папка IntelliJ IDEA
+.idea/
+
+# Скомпилированные классы и артефакты сборки
+out/
+
+# Файлы конфигурации IntelliJ IDEA
+*.iml
+
+# Локальная история IntelliJ IDEA
+/.idea/modules.xml
+/.idea/*.iml
+/.idea/vcs.xml
+/.idea/compiler.xml
+
+# Журналы и временные файлы
+*.log
+*.tmp
+*~
+
+# Target папка Maven
+target/
+
+
+
+
